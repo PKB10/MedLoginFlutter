@@ -1,6 +1,6 @@
 # MedLogin
 
-Flutter mobile client for a patient management system.
+Flutter mobile client for a PMS.
 
 ## Created by Priyanka Kamlesh Bhatia
 
