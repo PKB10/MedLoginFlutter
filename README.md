@@ -2,6 +2,6 @@
 
 Flutter mobile client for a PMS.
 
-## Created by Priyanka Kamlesh Bhatia
+## Created by PKB10
 
 This application was created as part of thesis completion.
